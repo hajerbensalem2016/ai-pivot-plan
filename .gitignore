@@ -1,0 +1,21 @@
+# Anciens fichiers exemples (à supprimer une fois viewers fermés)
+EXEMPLE_*.pdf
+EXEMPLE_*.md
+EXEMPLE_*.html
+
+# Fichiers HTML intermédiaires (générés depuis les scripts)
+boards/*.html
+
+# Python venv du projet code
+code/venv/
+code/.env
+code/__pycache__/
+code/*.pyc
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
